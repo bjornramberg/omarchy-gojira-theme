@@ -36,9 +36,7 @@ The following application configurations are included in this theme:
 - **Zellij**: `zellij.kdl`
 
 ## Included Backgrounds
-- `BG1.png`
-- `BG2.png`
-- `BG3.png`
+<img width="4000" height="3000" alt="collage" src="https://github.com/user-attachments/assets/58501bb7-e4fc-40b3-8d02-d601c0cbf3cd" />
 
 ## AI Disclosure
 *The background images included in this theme were generated with the assistance of AI tools.*
