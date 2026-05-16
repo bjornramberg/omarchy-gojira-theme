@@ -8,7 +8,7 @@ A cold, oceanic, and industrial theme inspired by the heavy atmosphere of the de
 ## Installation
 To install the theme using the Omarchy theme manager:
 ```bash
-omarchy-theme-install https://github.com/usr/omarchy-gojira-theme
+omarchy-theme-install https://github.com/bjornramberg/omarchy-gojira-theme
 ```
 
 ## Included Configurations
