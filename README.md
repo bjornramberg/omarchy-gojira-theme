@@ -3,7 +3,7 @@ Gojira theme for [Omarchy](https://omarchy.org).
 
 ![Preview](preview.png)
 
-A cold, oceanic, and industrial theme inspired by the heavy atmosphere of the deep. Gojira brings a palette of abyssal blues and slate greys, accented by cold light highlights. Designed for focus and immersion in dark environments.
+A cold, oceanic, and industrial theme inspired by the heavy atmosphere of the deep. Gojira brings a palette of abyssal blues and slate greys, accented by cold light highlights. Designed for focus and immersion in dark environments. Comes with 3 custom backgrounds.
 
 ## Installation
 To install the theme using the Omarchy theme manager:
